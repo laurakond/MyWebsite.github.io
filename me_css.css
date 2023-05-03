@@ -1,0 +1,71 @@
+nav {
+    text-align: center;
+    background-color: white;
+}
+
+a {
+    margin: 20px;
+}
+
+main {
+    background-color: black;
+    padding: 50px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about { 
+    margin-top: 10px;
+    margin-bottom: -25px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h1{
+    margin-top: auto;
+    margin-bottom: 50px;
+}
+
+h2{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.image {
+    border: solid 5px white;
+    padding: 5px;
+    border-radius: 100px 100px 100px 100px;
+}
+
+.row {
+    display: flex;
+    padding: 100px;
+  }
+  
+/* #Degas3 {
+    padding: px;
+    margin-right: px;
+} */
+
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  
+ul {
+    list-style-type: none;
+    padding: 30px;
+    background-color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+li{
+    margin: 15px;
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
